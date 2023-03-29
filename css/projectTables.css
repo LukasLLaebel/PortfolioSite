@@ -1,0 +1,12 @@
+table, th, td {
+    border:1px solid black;
+    margin:10px;
+}
+.right {
+    float: right;
+    margin-right:20px;
+}
+.left {
+    float:left;
+    margin-left:20px;
+}
